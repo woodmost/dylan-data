@@ -7,7 +7,6 @@
 - [React.js](https://reactjs.org/) - UI Library
 - [Framer Motion](https://www.framer.com/motion/) - Animations
 - [Create React App](https://create-react-app.dev/) - Build tool
-- [Netlify](https://www.netlify.com/) - Hosting and Deployment
 
 ## How to run locally 💻
 
